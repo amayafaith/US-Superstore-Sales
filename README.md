@@ -1,1 +1,1 @@
-Created a Power BI dashboard to reflecting a Sales Report for Supersore in the US
+Created a Power BI dashboard to reflecting a Sales Report for Superstore in the US
